@@ -5,5 +5,5 @@ plugins:
   - jekyll-remote-theme
 
 # user/organization site:
-url: https://dino.github.io
-baseurl: ""   # keep empty
+url: https://dinonuggets730.github.io
+baseurl: /dino.github.io
