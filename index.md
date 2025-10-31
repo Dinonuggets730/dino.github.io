@@ -3,8 +3,8 @@ layout: default
 title: Home
 ---
 
-# Your Name
-Hello
+# Daniel Lee
+Hello and welcome to my portfolio website!
 
 - [About]({{ "/about/" | relative_url }})
 - [Projects]({{ "/projects/" | relative_url }})
